@@ -63,7 +63,7 @@ const About = () => {
           transition={{ duration: 1 }}
         >
           <img
-            src="public\trainner.webp"
+            src="trainner.webp"
             alt="Fitness Trainer"
             className="w-3/4 md:w-full rounded-lg shadow-lg"
           />
