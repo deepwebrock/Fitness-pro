@@ -1,13 +1,13 @@
 // src/pages/Home.jsx
 import React from 'react';
-import Navbar from '../components/Navbar';
-import Hero from '../components/Hero';
-import About from '../components/About';
-import Services from '../components/Services';
-import Testimonials from '../components/Testimonials';
-import Pricing from '../components/Pricing';
-import Contact from '../components/Contact';
-import Footer from '../components/Footer';
+import Navbar from '../Components/Navbar';
+import Hero from '../Components/Hero';
+import About from '../Components/About';
+import Services from '../Components/Services';
+import Testimonials from '../Components/Testimonials';
+import Pricing from '../Components/Pricing';
+import Contact from '../Components/Contact';
+import Footer from '../Components/Footer';
 
 const Home = () => {
   return (
